@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="NLW Heat" title="NLW Heat" src=".github/logo.png" width="250px" />
 </h1>
-<h4 align="center">NLW Heat </h4>
+<!-- <h4 align="center">NLW Heat </h4> -->
 <p align="center">  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jefferson-calmon/nlw-heat-impulse?color=fe3a6d">
     
@@ -29,6 +29,8 @@
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+<br /><br />
 
 ## :information_source: What's Next Level Week?
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
