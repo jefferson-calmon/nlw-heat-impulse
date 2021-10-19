@@ -30,9 +30,42 @@
   <a href="#memo-license">License</a>
 </p>
 
+
 <br /><br />
 
-## :information_source: What's Next Level Week?
+
+<a id="-nlw"></a>
+
+## :coffee: What's Next Level Week?
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
 Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
 An online and completely free event that will help you take the next step in your evolution as a dev.
+
+
+<br />
+
+
+##  :computer: Project
+Ecoleta is a project developed based on international environment week. 
+That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+
+<img alt="Example" title="Example" src=".github/capa.png" />
+
+
+<br />
+
+
+## :rocket: Technologies
+This project was developed with the following technologies:
+- Node.js
+- TypeScript
+- React
+- React Native
+- Elixir
+
+
+<br />
+
+
+## 🔖 Layout
+To access the layout use [Figma](https://www.figma.com/file/GfMrGymDY9fU1CFfig9lJy/%5BNLW-Heat---Mission%3A-Impulse%5D-DoWhile2021-(Community)?node-id=0%3A1).
