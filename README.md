@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NLW Heat" title="NLW Heat" src=".github/logo.svg" width="250px" />
+    <img alt="NLW Heat" title="NLW Heat" src=".github/logo.jpg" width="250px" />
 </h1>
 <h2 align="center"> 
     :heavy_check_mark: NLW Heat
