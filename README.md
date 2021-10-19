@@ -1,24 +1,22 @@
 <h1 align="center">
-    <img alt="NLW Heat" title="NLW Heat" src=".github/logo.jpg" width="250px" />
+    <img alt="NLW Heat" title="NLW Heat" src=".github/logo.png" width="250px" />
 </h1>
-<h2 align="center"> 
-    :heavy_check_mark: NLW Heat
-</h2>
+<h2 align="center">NLW Heat</h2>
 <p align="center">  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jefferson-calmon/nlw-heat-impulse?color=ff7051">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jefferson-calmon/nlw-heat-impulse?color=fe3a6d">
     
   <a href="https://www.linkedin.com/in/jeffersoncalmon/">
-    <img alt="Made by jefferson-calmon" src="https://img.shields.io/badge/made%20by-Jefferson Calmon-%23ff7051">
+    <img alt="Made by jefferson-calmon" src="https://img.shields.io/badge/made%20by-Jefferson Calmon-%23fe3a6d">
   </a>
   
   <a href="https://github.com/jefferson-calmon/nlw-heat-impulse/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jefferson-calmon/nlw-heat-impulse?color=ff7051">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jefferson-calmon/nlw-heat-impulse?color=fe3a6d">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=ff7051">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=fe3a6d">
 
    <a href="https://github.com/jefferson-calmon/nlw-heat-impulse/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/jefferson-calmon/nlw-heat-impulse?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/jefferson-calmon/nlw-heat-impulse?style=social&color=fe3a6d">
   </a>
 </p>
 
